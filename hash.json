@@ -1,0 +1,5 @@
+{
+  "mongodb": "dev-mongodb.net",
+  "database": "admin",
+  "sqluser": "root"
+}
